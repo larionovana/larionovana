@@ -1,4 +1,4 @@
-# Привет, меня зовут Надя!
+# Привет!
 
 ---
 
@@ -58,10 +58,10 @@
 <li>  <a href="https://github.com/larionovana/design">Техники тест-дизайна</a>  </li>
 <li>  <a href="https://github.com/larionovana/docs"> Тестовая документация </a>   </li>
 <li> <a href="https://github.com/larionovana/web">Тестирование web-приложений</a>   </li>
-<li>  <a href="https://github.com/larionovana/api">Тестирование API</a>  </li>
-<li>  <a href="https://github.com/larionovana/database"> Базы данных</a>   </li>
 <li> <a href="https://github.com/larionovana/mobile">Тестирование мобильных приложений</a>  </li>
-<li> <a href="https://github.com/larionovana/git_bash"> Работа с bash </a>  </li>
+<li>  <a href="https://github.com/larionovana/api">Тестирование API (Postman)</a>  </li>
+<li>  <a href="https://github.com/larionovana/database">SQL и MongoDB</a>   </li>
+<li> <a href="https://github.com/larionovana/git_bash"> Bash </a>  </li>
 
 ---
 
