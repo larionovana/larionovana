@@ -13,10 +13,11 @@
 Ответственна, терпелива, честна.
 Боже, какой я молодец, царь во дворца
 
+<a href="https://docs.google.com/document/d/1WBKnTpVqW8RPJb4dryiVgnAfwx-DOI6SZGOHKnv3u_4/edit?usp=sharing" rel="nofollow">Здесь будет ссыль на резюме, когда мои ленивые рученьки дойдут до посмотреть последние видосы на курсе и составить вай какой красывый резюмешечка вай вай приходи работать к нам, дорогой!</a>
 
+---
 
-
-- 📫 Как связаться со мной: [![GMail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sonyavtanke@gmail.com)
+📫 Как связаться со мной: [![GMail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sonyavtanke@gmail.com)
 
 ---
 
